@@ -1,0 +1,501 @@
+Tool Name,Category,Usage Count,Month,Region,Industry,User Type
+DALL-E,Generative AI,7177,2023-04-01,Africa,Education,Enterprise
+BERT,Text-to-Image,18848,2023-04-01,South America,Entertainment,Individual
+BERT,Generative AI,13036,2023-09-01,Africa,Technology,SMB
+DALL-E,Generative AI,23965,2023-11-01,Africa,Finance,Individual
+Stable Diffusion,Text-to-Image,18056,2023-10-01,North America,Healthcare,SMB
+Stable Diffusion,Text-to-Image,12473,2023-07-01,Asia,Entertainment,Enterprise
+Stable Diffusion,Generative AI,21573,2023-06-01,Asia,Education,SMB
+BERT,Generative AI,32715,2023-08-01,Asia,Finance,Individual
+ChatGPT,Text-to-Image,23832,2023-04-01,Asia,Finance,Individual
+ChatGPT,NLP,31307,2023-01-01,South America,Finance,Individual
+Stable Diffusion,Generative AI,19189,2023-03-01,South America,Technology,Individual
+Stable Diffusion,NLP,18646,2023-07-01,Asia,Finance,SMB
+ChatGPT,Text-to-Image,33252,2023-07-01,Africa,Finance,SMB
+DALL-E,NLP,14863,2023-04-01,Asia,Finance,Enterprise
+BERT,Generative AI,9411,2023-07-01,South America,Finance,Enterprise
+BERT,Text-to-Image,7316,2023-05-01,Africa,Finance,SMB
+DALL-E,Text-to-Image,17933,2023-05-01,Africa,Healthcare,Enterprise
+ChatGPT,Generative AI,29813,2023-09-01,Europe,Finance,SMB
+DALL-E,NLP,34247,2023-05-01,Asia,Education,Enterprise
+DALL-E,Text-to-Image,11007,2023-07-01,Africa,Education,Enterprise
+DALL-E,Text-to-Image,22828,2023-06-01,South America,Healthcare,Individual
+ChatGPT,Generative AI,15232,2023-04-01,North America,Technology,SMB
+DALL-E,Generative AI,23537,2023-10-01,Europe,Technology,Individual
+DALL-E,NLP,30004,2023-09-01,North America,Healthcare,Enterprise
+BERT,Generative AI,22452,2023-10-01,Asia,Entertainment,SMB
+BERT,NLP,27600,2023-10-01,Europe,Education,SMB
+Stable Diffusion,Text-to-Image,19478,2023-10-01,South America,Technology,Enterprise
+DALL-E,NLP,21018,2023-03-01,Europe,Finance,Enterprise
+BERT,Text-to-Image,27509,2023-07-01,North America,Healthcare,SMB
+BERT,Generative AI,25499,2023-08-01,North America,Healthcare,Enterprise
+DALL-E,Generative AI,11999,2023-02-01,Asia,Education,Individual
+ChatGPT,Text-to-Image,26096,2023-07-01,Africa,Technology,SMB
+Stable Diffusion,Generative AI,34468,2023-02-01,Asia,Education,SMB
+ChatGPT,Generative AI,15414,2023-02-01,Asia,Finance,Individual
+ChatGPT,Generative AI,19700,2023-06-01,Asia,Finance,Enterprise
+DALL-E,Generative AI,18655,2023-02-01,Europe,Entertainment,Enterprise
+Stable Diffusion,NLP,8424,2023-02-01,Europe,Education,SMB
+ChatGPT,NLP,17106,2023-12-01,North America,Healthcare,SMB
+ChatGPT,NLP,26604,2023-05-01,Africa,Technology,Individual
+DALL-E,Generative AI,25577,2023-05-01,Asia,Education,Individual
+Stable Diffusion,NLP,18424,2023-05-01,South America,Education,Individual
+ChatGPT,Text-to-Image,8552,2023-07-01,Asia,Education,Individual
+Stable Diffusion,NLP,6251,2023-11-01,North America,Technology,Individual
+DALL-E,NLP,29516,2023-03-01,North America,Healthcare,Enterprise
+Stable Diffusion,Text-to-Image,31595,2023-10-01,North America,Finance,SMB
+BERT,NLP,16075,2023-06-01,North America,Finance,SMB
+ChatGPT,Text-to-Image,24010,2023-03-01,North America,Entertainment,SMB
+BERT,Generative AI,34304,2023-09-01,Asia,Healthcare,Enterprise
+Stable Diffusion,Generative AI,34696,2023-09-01,Asia,Entertainment,Individual
+Stable Diffusion,NLP,16223,2023-01-01,North America,Education,SMB
+Stable Diffusion,Generative AI,13764,2023-02-01,South America,Education,SMB
+ChatGPT,Text-to-Image,21506,2023-01-01,South America,Healthcare,Individual
+BERT,NLP,15362,2023-04-01,Asia,Finance,Enterprise
+ChatGPT,NLP,11176,2023-08-01,North America,Technology,Individual
+DALL-E,Generative AI,15709,2023-02-01,Europe,Education,SMB
+BERT,NLP,9374,2023-04-01,Europe,Finance,Enterprise
+BERT,Generative AI,27919,2023-07-01,Africa,Finance,Individual
+ChatGPT,Generative AI,9507,2023-12-01,Africa,Entertainment,Enterprise
+BERT,Text-to-Image,26736,2023-04-01,South America,Technology,Enterprise
+ChatGPT,Text-to-Image,22239,2023-11-01,South America,Healthcare,Enterprise
+Stable Diffusion,NLP,6226,2023-08-01,North America,Technology,Enterprise
+Stable Diffusion,Generative AI,26999,2023-07-01,Europe,Healthcare,SMB
+Stable Diffusion,NLP,33326,2023-12-01,North America,Healthcare,Individual
+ChatGPT,NLP,17777,2023-03-01,Asia,Entertainment,Enterprise
+ChatGPT,Generative AI,7382,2023-12-01,Asia,Healthcare,Individual
+Stable Diffusion,Generative AI,24548,2023-12-01,Asia,Education,SMB
+BERT,Generative AI,23857,2023-08-01,South America,Finance,SMB
+Stable Diffusion,Generative AI,14796,2023-12-01,Africa,Healthcare,Individual
+Stable Diffusion,Generative AI,23003,2023-01-01,Asia,Entertainment,Enterprise
+BERT,NLP,7143,2023-12-01,Asia,Education,SMB
+ChatGPT,Text-to-Image,24216,2023-05-01,Africa,Finance,SMB
+Stable Diffusion,NLP,29717,2023-03-01,Asia,Education,Enterprise
+Stable Diffusion,Generative AI,6985,2023-09-01,Africa,Technology,Enterprise
+ChatGPT,NLP,13664,2023-01-01,North America,Entertainment,SMB
+BERT,Text-to-Image,8329,2023-12-01,Europe,Entertainment,Individual
+ChatGPT,Text-to-Image,19926,2023-10-01,North America,Healthcare,Enterprise
+DALL-E,Generative AI,27295,2023-08-01,South America,Finance,Enterprise
+DALL-E,Text-to-Image,24495,2023-09-01,South America,Entertainment,Enterprise
+BERT,NLP,11284,2023-11-01,Africa,Finance,SMB
+BERT,Generative AI,9807,2023-09-01,Asia,Finance,SMB
+Stable Diffusion,Generative AI,30017,2023-02-01,South America,Healthcare,Enterprise
+ChatGPT,Generative AI,30042,2023-02-01,Asia,Technology,Enterprise
+BERT,NLP,12220,2023-06-01,South America,Healthcare,SMB
+DALL-E,Generative AI,16202,2023-11-01,South America,Entertainment,Individual
+ChatGPT,Generative AI,30402,2023-06-01,Asia,Education,Enterprise
+BERT,Generative AI,6668,2023-08-01,Europe,Entertainment,Enterprise
+ChatGPT,Text-to-Image,11512,2023-01-01,North America,Finance,Enterprise
+ChatGPT,Text-to-Image,6995,2023-10-01,North America,Technology,SMB
+ChatGPT,Text-to-Image,29382,2023-04-01,South America,Healthcare,Individual
+ChatGPT,Generative AI,24531,2023-06-01,Africa,Technology,Enterprise
+BERT,Text-to-Image,34751,2023-03-01,North America,Education,Enterprise
+ChatGPT,Generative AI,34797,2023-03-01,South America,Finance,SMB
+BERT,Text-to-Image,20800,2023-04-01,Asia,Education,Individual
+Stable Diffusion,Text-to-Image,12843,2023-11-01,Europe,Finance,Enterprise
+DALL-E,Text-to-Image,5774,2023-08-01,North America,Finance,Enterprise
+Stable Diffusion,Generative AI,5764,2023-11-01,North America,Technology,Individual
+Stable Diffusion,Text-to-Image,15842,2023-06-01,North America,Education,SMB
+ChatGPT,Text-to-Image,29967,2023-12-01,Asia,Healthcare,Individual
+Stable Diffusion,Text-to-Image,18902,2023-07-01,Asia,Finance,Enterprise
+Stable Diffusion,Generative AI,25545,2023-12-01,Africa,Technology,Individual
+BERT,NLP,9679,2023-06-01,Europe,Entertainment,Individual
+DALL-E,NLP,10283,2023-07-01,Asia,Healthcare,Enterprise
+DALL-E,Text-to-Image,21101,2023-08-01,Africa,Healthcare,Individual
+ChatGPT,Text-to-Image,30271,2023-04-01,Europe,Healthcare,Individual
+BERT,Text-to-Image,15025,2023-06-01,Africa,Healthcare,Individual
+DALL-E,Generative AI,29373,2023-08-01,Asia,Healthcare,SMB
+Stable Diffusion,Generative AI,24060,2023-11-01,North America,Education,Individual
+DALL-E,NLP,19861,2023-12-01,North America,Technology,Enterprise
+DALL-E,Text-to-Image,25061,2023-04-01,North America,Healthcare,Enterprise
+ChatGPT,NLP,24463,2023-11-01,Africa,Healthcare,SMB
+DALL-E,Text-to-Image,33837,2023-07-01,Africa,Technology,Enterprise
+DALL-E,Text-to-Image,16221,2023-10-01,Europe,Entertainment,SMB
+DALL-E,NLP,17133,2023-07-01,Asia,Technology,SMB
+DALL-E,Generative AI,9449,2023-03-01,North America,Technology,Enterprise
+Stable Diffusion,NLP,17620,2023-07-01,Asia,Technology,SMB
+DALL-E,NLP,23792,2023-11-01,Africa,Healthcare,Individual
+DALL-E,Generative AI,26244,2023-09-01,Europe,Finance,Enterprise
+BERT,Generative AI,21392,2023-03-01,Asia,Technology,Enterprise
+DALL-E,Generative AI,11565,2023-04-01,Europe,Finance,SMB
+ChatGPT,Text-to-Image,7336,2023-12-01,North America,Technology,Individual
+ChatGPT,Text-to-Image,26386,2023-03-01,South America,Education,Enterprise
+BERT,Generative AI,30603,2023-07-01,South America,Healthcare,Individual
+ChatGPT,NLP,16596,2023-02-01,North America,Technology,Individual
+DALL-E,Text-to-Image,22807,2023-08-01,South America,Technology,Enterprise
+Stable Diffusion,Text-to-Image,17233,2023-12-01,Asia,Finance,Individual
+BERT,NLP,27665,2023-07-01,South America,Healthcare,SMB
+DALL-E,Generative AI,26931,2023-02-01,Europe,Finance,Enterprise
+Stable Diffusion,Text-to-Image,19926,2023-07-01,North America,Technology,SMB
+DALL-E,Generative AI,22827,2023-04-01,South America,Technology,Individual
+ChatGPT,NLP,22066,2023-05-01,Africa,Entertainment,Individual
+BERT,Generative AI,8511,2023-11-01,South America,Finance,SMB
+DALL-E,NLP,24336,2023-10-01,North America,Entertainment,Individual
+Stable Diffusion,Generative AI,9136,2023-06-01,South America,Technology,SMB
+ChatGPT,Text-to-Image,27284,2023-02-01,Africa,Entertainment,Individual
+ChatGPT,Text-to-Image,22040,2023-09-01,South America,Education,Enterprise
+ChatGPT,Generative AI,23489,2023-07-01,South America,Entertainment,SMB
+DALL-E,NLP,34689,2023-05-01,Asia,Finance,Enterprise
+ChatGPT,Text-to-Image,26941,2023-12-01,North America,Entertainment,SMB
+BERT,NLP,27202,2023-06-01,South America,Entertainment,SMB
+BERT,Text-to-Image,13047,2023-04-01,Asia,Entertainment,Individual
+Stable Diffusion,NLP,31906,2023-02-01,Asia,Technology,Individual
+BERT,Text-to-Image,26658,2023-04-01,Europe,Healthcare,SMB
+ChatGPT,Generative AI,10811,2023-01-01,Europe,Finance,Individual
+ChatGPT,Generative AI,8403,2023-02-01,South America,Education,Individual
+DALL-E,Text-to-Image,21505,2023-09-01,North America,Education,SMB
+DALL-E,Text-to-Image,30158,2023-06-01,South America,Finance,SMB
+DALL-E,Generative AI,8999,2023-03-01,South America,Entertainment,Individual
+BERT,Generative AI,7719,2023-06-01,South America,Entertainment,Enterprise
+BERT,Text-to-Image,19127,2023-08-01,Asia,Education,Individual
+BERT,Generative AI,32797,2023-02-01,South America,Entertainment,SMB
+DALL-E,Text-to-Image,23701,2023-07-01,Asia,Healthcare,Individual
+ChatGPT,Generative AI,18889,2023-01-01,Europe,Healthcare,Individual
+BERT,Text-to-Image,19647,2023-01-01,North America,Entertainment,SMB
+ChatGPT,NLP,20882,2023-02-01,Europe,Technology,Enterprise
+BERT,Generative AI,27959,2023-09-01,South America,Healthcare,SMB
+BERT,NLP,23235,2023-06-01,Asia,Finance,Individual
+ChatGPT,Text-to-Image,7782,2023-09-01,South America,Finance,Enterprise
+DALL-E,NLP,34910,2023-12-01,North America,Healthcare,Enterprise
+Stable Diffusion,Generative AI,17628,2023-02-01,Europe,Technology,Individual
+BERT,Text-to-Image,9888,2023-08-01,Africa,Education,SMB
+BERT,Text-to-Image,27060,2023-03-01,Africa,Entertainment,SMB
+Stable Diffusion,Text-to-Image,16743,2023-05-01,Europe,Healthcare,Individual
+BERT,Text-to-Image,19080,2023-11-01,North America,Healthcare,SMB
+ChatGPT,Generative AI,28094,2023-09-01,Asia,Healthcare,Enterprise
+DALL-E,Text-to-Image,21775,2023-01-01,Europe,Entertainment,SMB
+ChatGPT,NLP,21492,2023-06-01,Africa,Technology,Enterprise
+BERT,Generative AI,33401,2023-12-01,Asia,Finance,SMB
+Stable Diffusion,NLP,11212,2023-01-01,Europe,Education,Individual
+ChatGPT,Text-to-Image,26840,2023-06-01,South America,Healthcare,Enterprise
+ChatGPT,Generative AI,22105,2023-07-01,Asia,Entertainment,Individual
+BERT,NLP,27663,2023-10-01,South America,Entertainment,SMB
+BERT,Text-to-Image,14907,2023-03-01,North America,Finance,Individual
+DALL-E,Generative AI,31276,2023-12-01,North America,Finance,Enterprise
+DALL-E,Generative AI,12451,2023-11-01,Africa,Education,Enterprise
+Stable Diffusion,Generative AI,18123,2023-12-01,Asia,Finance,SMB
+Stable Diffusion,Text-to-Image,23998,2023-08-01,Asia,Technology,Enterprise
+BERT,Generative AI,9717,2023-09-01,South America,Entertainment,Individual
+ChatGPT,Text-to-Image,16497,2023-10-01,North America,Healthcare,Enterprise
+BERT,Text-to-Image,11862,2023-03-01,Africa,Healthcare,SMB
+BERT,NLP,33622,2023-06-01,Asia,Education,SMB
+Stable Diffusion,Generative AI,15858,2023-10-01,North America,Technology,SMB
+BERT,Text-to-Image,34161,2023-09-01,Europe,Healthcare,SMB
+DALL-E,Text-to-Image,31883,2023-11-01,Europe,Entertainment,Individual
+Stable Diffusion,Generative AI,23502,2023-07-01,Asia,Education,Individual
+BERT,Generative AI,30057,2023-01-01,Asia,Technology,SMB
+ChatGPT,Generative AI,33140,2023-07-01,Europe,Technology,Enterprise
+BERT,Generative AI,9870,2023-04-01,North America,Education,Individual
+ChatGPT,Generative AI,11172,2023-12-01,South America,Entertainment,SMB
+DALL-E,Generative AI,23429,2023-09-01,South America,Education,Enterprise
+Stable Diffusion,NLP,25989,2023-04-01,Asia,Technology,Individual
+Stable Diffusion,NLP,10717,2023-06-01,North America,Entertainment,SMB
+BERT,Text-to-Image,24399,2023-08-01,Africa,Technology,SMB
+BERT,NLP,20055,2023-07-01,South America,Education,SMB
+ChatGPT,Text-to-Image,16095,2023-02-01,Africa,Finance,Individual
+DALL-E,Generative AI,11843,2023-09-01,Africa,Technology,Individual
+BERT,Generative AI,30293,2023-07-01,South America,Education,Enterprise
+Stable Diffusion,Generative AI,22135,2023-12-01,North America,Finance,Individual
+Stable Diffusion,NLP,23557,2023-12-01,Africa,Education,Enterprise
+Stable Diffusion,Text-to-Image,21902,2023-04-01,Europe,Finance,SMB
+BERT,Text-to-Image,20734,2023-06-01,Africa,Technology,Enterprise
+Stable Diffusion,Text-to-Image,6630,2023-09-01,Europe,Technology,SMB
+ChatGPT,NLP,12886,2023-11-01,Africa,Entertainment,Individual
+BERT,Text-to-Image,14192,2023-05-01,Africa,Education,Enterprise
+Stable Diffusion,Generative AI,7935,2023-11-01,Europe,Finance,Enterprise
+BERT,Text-to-Image,27871,2023-02-01,North America,Finance,Individual
+DALL-E,NLP,24013,2023-08-01,North America,Technology,Enterprise
+ChatGPT,Generative AI,10972,2023-01-01,South America,Technology,SMB
+DALL-E,NLP,12999,2023-04-01,Asia,Finance,SMB
+DALL-E,NLP,10621,2023-12-01,North America,Healthcare,Individual
+DALL-E,Generative AI,9799,2023-06-01,North America,Finance,Enterprise
+BERT,Text-to-Image,7363,2023-12-01,North America,Education,Enterprise
+ChatGPT,Text-to-Image,6264,2023-06-01,Africa,Entertainment,Enterprise
+Stable Diffusion,Generative AI,5271,2023-03-01,Africa,Finance,SMB
+BERT,Generative AI,32188,2023-08-01,Europe,Entertainment,Enterprise
+DALL-E,NLP,5458,2023-06-01,Asia,Entertainment,Enterprise
+DALL-E,NLP,7483,2023-06-01,North America,Technology,SMB
+DALL-E,Generative AI,30032,2023-02-01,Asia,Entertainment,SMB
+ChatGPT,NLP,34191,2023-12-01,North America,Healthcare,Enterprise
+DALL-E,Text-to-Image,30167,2023-04-01,Africa,Entertainment,SMB
+BERT,Generative AI,10422,2023-03-01,Europe,Finance,SMB
+BERT,Text-to-Image,9124,2023-01-01,Asia,Finance,SMB
+Stable Diffusion,NLP,18791,2023-08-01,Africa,Entertainment,SMB
+BERT,NLP,10393,2023-10-01,North America,Finance,Enterprise
+BERT,Text-to-Image,9421,2023-11-01,North America,Entertainment,Individual
+DALL-E,NLP,22107,2023-09-01,North America,Entertainment,Enterprise
+Stable Diffusion,Generative AI,31682,2023-12-01,South America,Healthcare,Enterprise
+ChatGPT,Text-to-Image,20073,2023-05-01,South America,Entertainment,Individual
+Stable Diffusion,NLP,24360,2023-10-01,Africa,Technology,Enterprise
+ChatGPT,Text-to-Image,21371,2023-02-01,South America,Finance,SMB
+DALL-E,Text-to-Image,18663,2023-07-01,Asia,Education,Individual
+ChatGPT,NLP,32368,2023-09-01,South America,Technology,Enterprise
+Stable Diffusion,Text-to-Image,10791,2023-10-01,North America,Technology,SMB
+DALL-E,Generative AI,15070,2023-05-01,North America,Healthcare,SMB
+Stable Diffusion,Text-to-Image,32209,2023-05-01,Africa,Technology,Enterprise
+ChatGPT,Generative AI,16936,2023-01-01,Asia,Technology,Individual
+Stable Diffusion,Generative AI,17974,2023-12-01,Europe,Education,Individual
+BERT,Generative AI,29694,2023-07-01,South America,Education,Individual
+Stable Diffusion,Text-to-Image,10663,2023-03-01,Europe,Education,Individual
+DALL-E,Text-to-Image,31180,2023-01-01,North America,Finance,SMB
+BERT,NLP,14269,2023-01-01,Europe,Education,Enterprise
+Stable Diffusion,Generative AI,33968,2023-04-01,South America,Healthcare,Enterprise
+BERT,Text-to-Image,22213,2023-10-01,Europe,Finance,Enterprise
+BERT,Generative AI,24768,2023-10-01,South America,Technology,Individual
+DALL-E,Text-to-Image,10606,2023-11-01,Europe,Finance,SMB
+ChatGPT,Text-to-Image,29674,2023-08-01,South America,Entertainment,Enterprise
+DALL-E,NLP,32401,2023-06-01,Asia,Technology,Individual
+BERT,Generative AI,12630,2023-12-01,Europe,Finance,SMB
+Stable Diffusion,NLP,11492,2023-05-01,Africa,Healthcare,Individual
+ChatGPT,NLP,16928,2023-04-01,Europe,Education,Individual
+ChatGPT,Text-to-Image,9846,2023-10-01,South America,Finance,SMB
+Stable Diffusion,Text-to-Image,23644,2023-12-01,Asia,Education,SMB
+DALL-E,Text-to-Image,9670,2023-04-01,North America,Healthcare,Individual
+BERT,Generative AI,6287,2023-05-01,Africa,Entertainment,SMB
+ChatGPT,NLP,28675,2023-08-01,Europe,Technology,Enterprise
+Stable Diffusion,Text-to-Image,33536,2023-06-01,Asia,Education,SMB
+Stable Diffusion,Text-to-Image,9164,2023-02-01,South America,Education,Enterprise
+Stable Diffusion,Generative AI,8429,2023-12-01,Asia,Education,SMB
+ChatGPT,NLP,18105,2023-04-01,Europe,Entertainment,Enterprise
+DALL-E,Generative AI,6681,2023-11-01,Europe,Healthcare,Enterprise
+BERT,Text-to-Image,16231,2023-02-01,Asia,Finance,Individual
+Stable Diffusion,NLP,11070,2023-08-01,Asia,Technology,Enterprise
+Stable Diffusion,Text-to-Image,34570,2023-12-01,Europe,Entertainment,SMB
+Stable Diffusion,Generative AI,16431,2023-06-01,North America,Entertainment,SMB
+DALL-E,Generative AI,34270,2023-05-01,Asia,Finance,Enterprise
+BERT,NLP,6590,2023-11-01,North America,Education,Enterprise
+BERT,Generative AI,10334,2023-12-01,Africa,Healthcare,Enterprise
+DALL-E,Generative AI,14891,2023-05-01,Europe,Education,Enterprise
+DALL-E,NLP,24478,2023-03-01,North America,Education,SMB
+Stable Diffusion,NLP,9905,2023-12-01,North America,Entertainment,Individual
+DALL-E,Generative AI,19781,2023-04-01,Asia,Finance,Enterprise
+ChatGPT,Generative AI,27034,2023-04-01,Europe,Entertainment,SMB
+Stable Diffusion,NLP,28751,2023-01-01,Asia,Healthcare,SMB
+BERT,NLP,8756,2023-09-01,Asia,Finance,Individual
+ChatGPT,NLP,7349,2023-12-01,Africa,Technology,SMB
+Stable Diffusion,Text-to-Image,9312,2023-06-01,Asia,Education,SMB
+ChatGPT,Text-to-Image,24553,2023-01-01,Asia,Education,SMB
+DALL-E,NLP,7709,2023-04-01,South America,Entertainment,SMB
+Stable Diffusion,NLP,20960,2023-09-01,Europe,Education,Individual
+Stable Diffusion,Text-to-Image,18393,2023-05-01,Africa,Entertainment,SMB
+ChatGPT,NLP,29916,2023-06-01,North America,Entertainment,Individual
+DALL-E,Text-to-Image,19228,2023-09-01,South America,Entertainment,Enterprise
+BERT,Generative AI,23647,2023-11-01,South America,Technology,Enterprise
+DALL-E,Generative AI,19844,2023-08-01,North America,Entertainment,Individual
+BERT,Text-to-Image,33701,2023-02-01,Africa,Entertainment,Individual
+BERT,NLP,19532,2023-11-01,Asia,Finance,Enterprise
+ChatGPT,Generative AI,24235,2023-09-01,Africa,Entertainment,Enterprise
+ChatGPT,Text-to-Image,7994,2023-08-01,Europe,Entertainment,Individual
+ChatGPT,NLP,31317,2023-03-01,Africa,Entertainment,Individual
+DALL-E,NLP,26219,2023-11-01,South America,Education,Individual
+BERT,Generative AI,26188,2023-03-01,Europe,Finance,SMB
+ChatGPT,Text-to-Image,13168,2023-07-01,Asia,Finance,SMB
+BERT,Generative AI,15458,2023-05-01,North America,Education,SMB
+DALL-E,Generative AI,7059,2023-11-01,Asia,Healthcare,SMB
+DALL-E,Text-to-Image,15486,2023-06-01,Africa,Education,Individual
+Stable Diffusion,Text-to-Image,22262,2023-12-01,Africa,Education,Individual
+DALL-E,Generative AI,5508,2023-05-01,Africa,Entertainment,SMB
+Stable Diffusion,NLP,10792,2023-03-01,North America,Education,SMB
+DALL-E,Text-to-Image,34890,2023-06-01,South America,Technology,SMB
+DALL-E,Generative AI,11248,2023-01-01,Africa,Entertainment,SMB
+Stable Diffusion,NLP,34358,2023-07-01,Asia,Finance,Enterprise
+DALL-E,NLP,17933,2023-06-01,South America,Finance,Enterprise
+DALL-E,NLP,13205,2023-06-01,Asia,Education,SMB
+BERT,Generative AI,12777,2023-05-01,Europe,Education,SMB
+ChatGPT,Text-to-Image,19807,2023-07-01,Europe,Healthcare,SMB
+BERT,Generative AI,13881,2023-01-01,Africa,Entertainment,Enterprise
+ChatGPT,NLP,10687,2023-01-01,Asia,Technology,Enterprise
+Stable Diffusion,Text-to-Image,26922,2023-11-01,North America,Healthcare,Enterprise
+BERT,Text-to-Image,31435,2023-01-01,Africa,Entertainment,SMB
+Stable Diffusion,Text-to-Image,31768,2023-10-01,Europe,Finance,Enterprise
+BERT,Text-to-Image,22651,2023-12-01,North America,Finance,Individual
+DALL-E,NLP,34197,2023-11-01,North America,Healthcare,Individual
+BERT,Text-to-Image,20414,2023-03-01,North America,Entertainment,Individual
+BERT,Text-to-Image,34674,2023-03-01,Asia,Entertainment,Enterprise
+ChatGPT,Generative AI,18619,2023-12-01,North America,Education,Enterprise
+ChatGPT,NLP,10659,2023-08-01,Africa,Technology,SMB
+ChatGPT,Generative AI,32327,2023-11-01,Europe,Technology,Enterprise
+DALL-E,Text-to-Image,25606,2023-01-01,Europe,Finance,Individual
+DALL-E,Text-to-Image,12003,2023-04-01,Africa,Healthcare,Enterprise
+BERT,NLP,10542,2023-04-01,Asia,Technology,Individual
+DALL-E,NLP,5944,2023-04-01,North America,Finance,SMB
+DALL-E,NLP,31387,2023-11-01,Africa,Entertainment,Individual
+Stable Diffusion,Text-to-Image,7633,2023-01-01,Africa,Entertainment,SMB
+DALL-E,Text-to-Image,32157,2023-02-01,Europe,Finance,Individual
+BERT,Text-to-Image,34047,2023-03-01,Africa,Education,Individual
+BERT,NLP,11731,2023-10-01,North America,Finance,Individual
+BERT,NLP,7041,2023-12-01,Asia,Entertainment,Individual
+BERT,NLP,32759,2023-09-01,South America,Healthcare,Individual
+DALL-E,Generative AI,9687,2023-12-01,Europe,Entertainment,Enterprise
+DALL-E,NLP,25495,2023-03-01,Africa,Entertainment,Enterprise
+BERT,NLP,10966,2023-11-01,South America,Entertainment,Individual
+DALL-E,Text-to-Image,5206,2023-09-01,Africa,Finance,SMB
+Stable Diffusion,Generative AI,33574,2023-10-01,Asia,Healthcare,Enterprise
+BERT,Text-to-Image,19807,2023-04-01,Europe,Healthcare,Individual
+Stable Diffusion,Generative AI,6471,2023-03-01,South America,Education,Individual
+DALL-E,NLP,7957,2023-04-01,Africa,Education,Individual
+BERT,Generative AI,15150,2023-04-01,Europe,Finance,SMB
+DALL-E,Generative AI,14329,2023-03-01,Africa,Education,SMB
+ChatGPT,NLP,5864,2023-01-01,North America,Entertainment,Individual
+Stable Diffusion,Text-to-Image,22988,2023-05-01,South America,Education,Individual
+DALL-E,Text-to-Image,22550,2023-10-01,South America,Healthcare,Individual
+BERT,Generative AI,13067,2023-10-01,North America,Finance,SMB
+ChatGPT,Text-to-Image,21756,2023-05-01,South America,Education,Enterprise
+BERT,NLP,34436,2023-03-01,Asia,Technology,Individual
+DALL-E,Text-to-Image,33701,2023-03-01,Europe,Finance,Enterprise
+Stable Diffusion,NLP,29691,2023-12-01,South America,Education,Enterprise
+BERT,NLP,33640,2023-02-01,Europe,Finance,Individual
+BERT,Text-to-Image,13299,2023-07-01,Europe,Finance,Enterprise
+ChatGPT,Text-to-Image,29013,2023-07-01,Asia,Education,Individual
+Stable Diffusion,Text-to-Image,7868,2023-02-01,Africa,Finance,Enterprise
+Stable Diffusion,Generative AI,14030,2023-05-01,Africa,Technology,Enterprise
+Stable Diffusion,Text-to-Image,8060,2023-09-01,North America,Entertainment,Individual
+DALL-E,NLP,17605,2023-12-01,North America,Technology,Enterprise
+DALL-E,Generative AI,18407,2023-01-01,Africa,Education,SMB
+ChatGPT,Text-to-Image,18413,2023-04-01,South America,Healthcare,Enterprise
+ChatGPT,NLP,5102,2023-11-01,Europe,Education,Individual
+ChatGPT,Generative AI,12671,2023-07-01,North America,Entertainment,Enterprise
+DALL-E,Text-to-Image,19004,2023-11-01,North America,Technology,Enterprise
+DALL-E,Text-to-Image,30565,2023-08-01,Africa,Finance,SMB
+ChatGPT,Text-to-Image,17841,2023-02-01,Asia,Finance,Enterprise
+Stable Diffusion,NLP,21364,2023-07-01,North America,Finance,Individual
+BERT,Generative AI,18767,2023-11-01,Asia,Technology,Individual
+DALL-E,Generative AI,30420,2023-07-01,Europe,Technology,SMB
+BERT,NLP,9452,2023-12-01,North America,Healthcare,Individual
+Stable Diffusion,NLP,11049,2023-01-01,Africa,Healthcare,Individual
+Stable Diffusion,Generative AI,20745,2023-04-01,North America,Healthcare,Individual
+DALL-E,NLP,31472,2023-09-01,South America,Entertainment,Enterprise
+Stable Diffusion,Text-to-Image,23877,2023-09-01,Africa,Technology,SMB
+ChatGPT,NLP,28654,2023-10-01,Africa,Education,SMB
+ChatGPT,Generative AI,6037,2023-07-01,Africa,Technology,Enterprise
+DALL-E,Generative AI,11755,2023-04-01,Africa,Entertainment,Enterprise
+BERT,Text-to-Image,5652,2023-09-01,Asia,Education,Enterprise
+Stable Diffusion,Generative AI,15466,2023-03-01,Asia,Education,Enterprise
+ChatGPT,Text-to-Image,33229,2023-03-01,North America,Education,SMB
+ChatGPT,Generative AI,12454,2023-04-01,South America,Education,Enterprise
+DALL-E,Generative AI,17273,2023-07-01,Europe,Technology,SMB
+ChatGPT,Text-to-Image,15048,2023-09-01,South America,Entertainment,Individual
+Stable Diffusion,Text-to-Image,21084,2023-07-01,North America,Finance,Individual
+DALL-E,Text-to-Image,13325,2023-03-01,Asia,Technology,Enterprise
+DALL-E,Generative AI,11288,2023-03-01,Asia,Healthcare,Enterprise
+Stable Diffusion,Generative AI,32477,2023-09-01,Europe,Entertainment,Individual
+ChatGPT,NLP,17640,2023-11-01,Asia,Education,Individual
+DALL-E,Text-to-Image,18012,2023-08-01,Asia,Finance,Enterprise
+DALL-E,Generative AI,22367,2023-04-01,Africa,Education,Enterprise
+Stable Diffusion,Text-to-Image,18569,2023-12-01,Asia,Entertainment,Enterprise
+DALL-E,Generative AI,33130,2023-06-01,Europe,Education,SMB
+Stable Diffusion,NLP,21036,2023-05-01,North America,Education,SMB
+BERT,Text-to-Image,11782,2023-12-01,South America,Healthcare,Individual
+ChatGPT,Text-to-Image,22369,2023-01-01,Africa,Healthcare,Individual
+BERT,Generative AI,9021,2023-05-01,North America,Healthcare,SMB
+BERT,NLP,23371,2023-01-01,Africa,Entertainment,Enterprise
+BERT,Text-to-Image,19076,2023-12-01,South America,Entertainment,Individual
+DALL-E,NLP,34651,2023-01-01,Europe,Finance,Individual
+Stable Diffusion,NLP,21275,2023-11-01,North America,Entertainment,SMB
+ChatGPT,Generative AI,6931,2023-07-01,Africa,Finance,Individual
+DALL-E,NLP,30782,2023-07-01,North America,Entertainment,SMB
+BERT,Text-to-Image,11246,2023-05-01,North America,Technology,Enterprise
+BERT,Generative AI,18400,2023-03-01,North America,Technology,Individual
+ChatGPT,Text-to-Image,18422,2023-03-01,Africa,Education,Individual
+BERT,Text-to-Image,29606,2023-09-01,Asia,Finance,Individual
+BERT,Text-to-Image,32307,2023-03-01,Africa,Education,Individual
+BERT,Text-to-Image,30326,2023-09-01,Europe,Technology,Individual
+BERT,Generative AI,17025,2023-02-01,North America,Healthcare,Individual
+Stable Diffusion,NLP,25119,2023-06-01,Africa,Technology,Individual
+DALL-E,Text-to-Image,26211,2023-12-01,Europe,Education,SMB
+BERT,Text-to-Image,32463,2023-04-01,North America,Education,Enterprise
+Stable Diffusion,Text-to-Image,14313,2023-08-01,South America,Healthcare,Enterprise
+ChatGPT,NLP,32528,2023-12-01,North America,Education,Individual
+Stable Diffusion,Text-to-Image,10335,2023-12-01,North America,Entertainment,Enterprise
+Stable Diffusion,NLP,10102,2023-08-01,North America,Finance,SMB
+BERT,Text-to-Image,5169,2023-03-01,Africa,Technology,Enterprise
+ChatGPT,Text-to-Image,15877,2023-08-01,Europe,Technology,Enterprise
+DALL-E,Text-to-Image,5710,2023-10-01,North America,Technology,Individual
+BERT,Generative AI,26132,2023-06-01,South America,Entertainment,Individual
+DALL-E,NLP,18565,2023-04-01,North America,Technology,Individual
+Stable Diffusion,NLP,29575,2023-01-01,Africa,Technology,Individual
+Stable Diffusion,Text-to-Image,21538,2023-02-01,South America,Finance,Individual
+Stable Diffusion,Text-to-Image,10023,2023-08-01,Africa,Entertainment,Individual
+Stable Diffusion,NLP,6425,2023-03-01,Europe,Finance,SMB
+DALL-E,NLP,10483,2023-04-01,Africa,Entertainment,Individual
+DALL-E,Text-to-Image,14183,2023-12-01,South America,Education,SMB
+ChatGPT,Text-to-Image,19026,2023-08-01,Europe,Education,Enterprise
+BERT,NLP,8822,2023-01-01,Africa,Entertainment,Enterprise
+ChatGPT,Text-to-Image,16141,2023-01-01,North America,Finance,Individual
+Stable Diffusion,Generative AI,10853,2023-11-01,Europe,Technology,SMB
+ChatGPT,Text-to-Image,11027,2023-07-01,South America,Education,SMB
+ChatGPT,Text-to-Image,33987,2023-09-01,Asia,Entertainment,Enterprise
+ChatGPT,Text-to-Image,6688,2023-04-01,Europe,Healthcare,Individual
+DALL-E,NLP,31608,2023-01-01,Africa,Education,SMB
+DALL-E,Text-to-Image,18799,2023-04-01,Africa,Technology,SMB
+ChatGPT,Generative AI,10975,2023-02-01,Asia,Healthcare,SMB
+ChatGPT,NLP,15584,2023-02-01,Africa,Finance,SMB
+BERT,Generative AI,13630,2023-06-01,South America,Education,Individual
+BERT,Text-to-Image,34473,2023-11-01,South America,Healthcare,SMB
+BERT,Text-to-Image,28881,2023-09-01,Europe,Technology,SMB
+BERT,NLP,30882,2023-12-01,Asia,Education,Individual
+ChatGPT,Generative AI,33704,2023-11-01,North America,Technology,Enterprise
+Stable Diffusion,NLP,32588,2023-06-01,Asia,Healthcare,Enterprise
+Stable Diffusion,Text-to-Image,12251,2023-01-01,South America,Education,SMB
+Stable Diffusion,Text-to-Image,22325,2023-02-01,Asia,Education,SMB
+BERT,Text-to-Image,33661,2023-11-01,South America,Healthcare,SMB
+Stable Diffusion,Text-to-Image,32052,2023-02-01,North America,Education,SMB
+BERT,NLP,21733,2023-12-01,Asia,Education,Individual
+DALL-E,NLP,10657,2023-02-01,Africa,Technology,SMB
+ChatGPT,Generative AI,21372,2023-04-01,Asia,Finance,Enterprise
+ChatGPT,Generative AI,18706,2023-08-01,Africa,Education,Individual
+DALL-E,Text-to-Image,20378,2023-02-01,Africa,Education,Individual
+Stable Diffusion,Text-to-Image,6905,2023-05-01,North America,Technology,Enterprise
+DALL-E,NLP,6526,2023-11-01,South America,Finance,Individual
+DALL-E,NLP,8215,2023-01-01,Europe,Entertainment,Enterprise
+DALL-E,NLP,5564,2023-10-01,Europe,Technology,SMB
+Stable Diffusion,Generative AI,28858,2023-11-01,North America,Technology,Individual
+DALL-E,Generative AI,14670,2023-03-01,Asia,Education,Enterprise
+ChatGPT,Text-to-Image,34641,2023-01-01,North America,Entertainment,SMB
+ChatGPT,NLP,25215,2023-10-01,Africa,Education,SMB
+BERT,NLP,24690,2023-04-01,Africa,Technology,SMB
+ChatGPT,NLP,13328,2023-07-01,Asia,Education,Enterprise
+DALL-E,Text-to-Image,10428,2023-01-01,Africa,Education,Individual
+DALL-E,Text-to-Image,12073,2023-01-01,North America,Healthcare,SMB
+DALL-E,Generative AI,26889,2023-08-01,North America,Education,SMB
+BERT,Text-to-Image,21900,2023-08-01,Africa,Education,SMB
+Stable Diffusion,NLP,30572,2023-04-01,Europe,Healthcare,SMB
+ChatGPT,NLP,22307,2023-11-01,South America,Entertainment,Enterprise
+Stable Diffusion,NLP,32435,2023-02-01,South America,Entertainment,Individual
+ChatGPT,Text-to-Image,5766,2023-03-01,Asia,Healthcare,Individual
+DALL-E,Text-to-Image,32540,2023-07-01,Europe,Education,Individual
+BERT,Text-to-Image,23207,2023-03-01,North America,Technology,Enterprise
+DALL-E,NLP,31937,2023-06-01,North America,Finance,SMB
+DALL-E,Generative AI,7498,2023-02-01,South America,Technology,SMB
+DALL-E,Generative AI,22617,2023-02-01,South America,Healthcare,SMB
+BERT,Generative AI,34100,2023-12-01,Africa,Healthcare,Individual
+BERT,Generative AI,15452,2023-06-01,Africa,Technology,Enterprise
+BERT,Text-to-Image,32873,2023-08-01,Asia,Entertainment,Enterprise
+BERT,Text-to-Image,15040,2023-10-01,South America,Technology,Individual
+ChatGPT,Text-to-Image,24817,2023-02-01,North America,Entertainment,Individual
+DALL-E,Text-to-Image,16403,2023-06-01,Africa,Healthcare,SMB
+DALL-E,NLP,9538,2023-01-01,Europe,Healthcare,Enterprise
+ChatGPT,NLP,28138,2023-03-01,Africa,Technology,Individual
+Stable Diffusion,Generative AI,17238,2023-05-01,Asia,Entertainment,SMB
+DALL-E,Text-to-Image,11175,2023-05-01,North America,Education,Enterprise
+ChatGPT,NLP,12039,2023-03-01,Asia,Education,SMB
+BERT,Generative AI,9501,2023-06-01,South America,Education,SMB
+BERT,Generative AI,33475,2023-11-01,Africa,Finance,Enterprise
+BERT,NLP,34622,2023-12-01,North America,Entertainment,Individual
+DALL-E,Generative AI,11092,2023-09-01,South America,Healthcare,Enterprise
+Stable Diffusion,NLP,9187,2023-01-01,South America,Finance,SMB
+ChatGPT,Generative AI,9591,2023-08-01,Asia,Healthcare,Enterprise
+DALL-E,Generative AI,20482,2023-02-01,Asia,Finance,SMB
+ChatGPT,Text-to-Image,16329,2023-06-01,Europe,Healthcare,Individual
+ChatGPT,Text-to-Image,33015,2023-02-01,South America,Entertainment,Enterprise
+BERT,NLP,6791,2023-03-01,South America,Finance,Enterprise
+Stable Diffusion,Text-to-Image,15750,2023-07-01,Europe,Healthcare,Individual
+ChatGPT,Generative AI,15429,2023-12-01,North America,Entertainment,Enterprise
+Stable Diffusion,NLP,26354,2023-10-01,Africa,Entertainment,Enterprise
+Stable Diffusion,Generative AI,31427,2023-01-01,North America,Entertainment,Individual
+ChatGPT,Text-to-Image,10572,2023-03-01,Africa,Healthcare,Enterprise
+BERT,Text-to-Image,6750,2023-05-01,Asia,Finance,Enterprise
+ChatGPT,Generative AI,20183,2023-02-01,South America,Entertainment,Individual
+BERT,Text-to-Image,25700,2023-03-01,North America,Healthcare,Individual
+DALL-E,Generative AI,29343,2023-02-01,Europe,Technology,SMB
+Stable Diffusion,Generative AI,28328,2023-01-01,Europe,Education,SMB
