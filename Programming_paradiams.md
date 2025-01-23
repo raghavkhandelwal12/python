@@ -22,11 +22,14 @@ for step in steps:
 
 - `Example Use Case` : In `Cloud Infrastructure Management`,tools like `Terraform` let you declare the desired state of resources without worrying about implementation details,.
 # Let's understand with terraform code
+
 ```
 resources "aws_instances""web"{
     ami="ami-123456"
     instance_type="t2.micro"
 }```
+
+
 - `Functional Paradigms`: Functional programming revolves around core functions and immutability,making it ideal for concurrent and data-intensive application.
 
 - `Example use case`: In `AI pipelines`,functional paradigms ensure predictable transformations,enabling reliable model training.
