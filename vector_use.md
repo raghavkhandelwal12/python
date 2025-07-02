@@ -2,8 +2,6 @@
 
 Vectors are at the core of how Large Language Models (LLMs) like GPT, BERT, and Claude understand and generate language. This document explains **where vectors are used** throughout the LLM pipeline.
 
----
-
 ## 1. Token Embedding
 
 **What happens:**  
@@ -15,8 +13,6 @@ It converts words into a numerical form that neural networks can understand.
 **Example:**  
 "lion" → [0.12, -0.44, ..., 0.98] (e.g., 768 dimensions)
 
----
-
 ## 2. Positional Encoding
 
 **What happens:**  
@@ -27,8 +23,6 @@ It helps the model understand word order and sequence.
 
 **Formula:**  
 Final Input = Token Embedding + Position Encoding
-
----
 
 ## 3. Self-Attention Mechanism
 
@@ -44,8 +38,6 @@ Attention(Q, K, V) = softmax(Q × Kᵀ / √d) × V
 **Why it's important:**  
 It lets the model focus on contextually important words (e.g., "king" attends to "lion").
 
----
-
 ## 4. Transformer Layers (Deep Representation)
 
 **What happens:**  
@@ -53,8 +45,6 @@ Vectors are passed through multiple transformer layers with matrix operations, a
 
 **Why it's important:**  
 To extract deeper patterns and relationships in text.
-
----
 
 ## 5. Output Prediction (Softmax)
 
@@ -64,7 +54,6 @@ The final token vector is passed through a softmax layer to generate a probabili
 **Why it's important:**  
 This is how the model selects the next token during generation.
 
----
 
 ## 6. Sentence and Document Embeddings
 
@@ -78,7 +67,6 @@ These embeddings are used for tasks like:
 - Clustering
 - Recommendations
 
----
 
 ## 7. Vector Similarity and Retrieval (RAG)
 
@@ -90,7 +78,6 @@ We use **cosine similarity** to retrieve relevant documents.
 
 **Tools:** FAISS, Pinecone, Weaviate
 
----
 
 ## 8. Training with Gradient Vectors
 
@@ -100,24 +87,5 @@ During training, vectors called gradients are used to update model weights.
 **Why it's important:**  
 Enables learning through backpropagation and optimization (e.g., using Adam optimizer).
 
----
 
-## Summary Table
-
-| Stage                      | Use of Vectors                                                                  |
-|---------------------------|----------------------------------------------------------------------------------|
-| Token Embedding           | Convert words/tokens to dense numeric vectors                                   |
-| Positional Encoding       | Add word position information                                                   |
-| Self-Attention            | Compute contextual relationships                                                |
-| Transformer Layers        | Deep transformation of token meanings                                           |
-| Output Prediction         | Choose next token using softmax probabilities                                   |
-| Sentence Embeddings       | Represent sentences/documents for classification/search                         |
-| RAG & Vector Databases    | Retrieve documents based on vector similarity                                   |
-| Gradient Vectors (Training)| Update model weights using optimization algorithms                              |
-
----
-
-## Final Note
-
-Vectors are the foundation of understanding in LLMs. Every token, sentence, attention score, or document is ultimately represented as a vector in high-dimensional space. Without vectors, LLMs wouldn't be able to understand, compare, or generate human language.
 
